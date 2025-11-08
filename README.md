@@ -5,7 +5,7 @@ Official whitepaper describing the self-managed security model of [glitter.kr](h
 Full document available at [whitepaper-1-1.glitter.kr](https://whitepaper-1-1.glitter.kr)
 
 📄 [Read Markdown Version](whitepaper_v1.1.md)
-📄 [Read Korean Markdown Version](https://sir.kr/cm_free/1718947)
+📄 [Read SIR.kr_SNS Markdown Version](https://sir.kr/cm_free/1718947)
 📘 [Download PDF Version](docs/whitepaper_v1.1.pdf)
 
 > The essence of security is direct control without delegation.
@@ -29,6 +29,7 @@ Full document available at [whitepaper-1-1.glitter.kr](https://whitepaper-1-1.gl
 > Author: glitter💫  
 > Trust Chain: DNSSEC · DANE · HSTS · CSP  
 > [GitHub-hosted Whitepaper](https://github.com/glitter-gim/autonomous-security-infrastructure)
+
 
 
 
