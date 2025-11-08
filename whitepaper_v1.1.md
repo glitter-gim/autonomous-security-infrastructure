@@ -3,6 +3,10 @@
 Most web services depend on external security gateways such as Cloudflare.  
 However, that means *delegating* security — not *verifying* it directly.
 
+📘 **Official Citation**  
+Gim, GwangHwi. (2025). *Autonomous Security Infrastructure — A Philosophy of Self-Verified Trust.*  
+OSF. [https://doi.org/10.17605/OSF.IO/DC3YH](https://doi.org/10.17605/OSF.IO/DC3YH)
+
 The server **(glitter.kr)** overcomes this structural limitation  
 by building an **autonomous infrastructure** that proves trust at every layer by itself.
 
@@ -90,3 +94,4 @@ It achieves a high level of self-verified trust without relying on commercial DN
 
 > The essence of security lies in **direct control without delegation**.  
 > This server embodies that principle.
+
