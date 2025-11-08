@@ -1,6 +1,10 @@
 # Autonomous Security Infrastructure Whitepaper (v1.1)
 Zero-Delegation · End-to-End TLS · DNSSEC + DANE  
 
+📘 **Official Citation**  
+Gim, GwangHwi. (2025). *Autonomous Security Infrastructure — A Philosophy of Self-Verified Trust.*  
+OSF. [https://doi.org/10.17605/OSF.IO/DC3YH](https://doi.org/10.17605/OSF.IO/DC3YH)
+
 Official whitepaper describing the self-managed security model of [glitter.kr](https://glitter.kr).  
 Full document available at [whitepaper-1-1.glitter.kr](https://whitepaper-1-1.glitter.kr)
 
@@ -29,6 +33,7 @@ Full document available at [whitepaper-1-1.glitter.kr](https://whitepaper-1-1.gl
 > Author: glitter💫  
 > Trust Chain: DNSSEC · DANE · HSTS · CSP  
 > [GitHub-hosted Whitepaper](https://github.com/glitter-gim/autonomous-security-infrastructure)
+
 
 
 
