@@ -28,7 +28,8 @@ Full document available at [whitepaper-1-1.glitter.kr](https://whitepaper-1-1.gl
 > **Copyright © 2025 glitter.kr**  
 > Author: glitter💫  
 > Trust Chain: DNSSEC · DANE · HSTS · CSP  
-> [whitepaper on git](https://github.com/glitter-gim/autonomous-security-infrastructure)
+> [GitHub-hosted Whitepaper](https://github.com/glitter-gim/autonomous-security-infrastructure)
+
 
 
 
